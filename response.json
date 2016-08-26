@@ -1,0 +1,9 @@
+{
+	"requestID": "asdf1234rewq",
+	"basket":
+		[
+			{"productID":"123","storeID":"1234"},
+			{"productID":"124","storeID":"1274"},
+			{"productID":"165","storeID":"1274"}
+		]
+}

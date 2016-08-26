@@ -1,0 +1,34 @@
+{
+	"requestID": "asdf1234rewq",
+	"customerID":"1234567890",
+	"deliveryCost":"3",
+	"basket":
+		[
+			{"productID":"123","quantity":"1"},
+			{"productID":"124","quantity":"2"},
+			{"productID":"165","quantity":"3"}
+		],
+	"stores":
+		[
+			{
+				"storeID":"1234",
+				"distanceFromCustomer":"2195",
+				"products":
+					[
+						{"productID":"123","price":"50.91"},
+						{"productID":"165","price":"35"},
+						{"productID":"124","price":"65"}
+					]
+			},
+			{
+				"storeID":"1274",
+				"distanceFromCustomer":"215",
+				"products":
+					[
+						{"productID":"123","price":"56.91"},
+						{"productID":"124","price":"51.91"},
+						{"productID":"165","price":"21.65"}
+					]
+			}
+		]
+}
